@@ -25,3 +25,4 @@ print("{:.2f}".format(d))
 ![Exp3](image.png)
 
 ### RESULT:
+Thus the distance of the two points is sucessfully executed and displayed.
